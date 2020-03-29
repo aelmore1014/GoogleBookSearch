@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/aelmore1014/GoogleBookSearch/issues"
   },
-  "homepage": "https://github.com/aelmore1014/GoogleBookSearch#readme"
+  "homepage": "https://github.com/aelmore1014/GoogleBookSearch#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.6"
+  }
 }
